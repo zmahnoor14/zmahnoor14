@@ -12,7 +12,7 @@ I'm a computational scientist passionate about pushing the boundaries of scienti
 
 ### Professional Journey 🔬
 * 🔬 **Postdoc** @ EMBL Heidelberg, Germany
-* 🤖 **Specialist** Cheminformatics and Computational Metabolomics
+* 🤖 **PhD** @Steinbeck lab, specialising in Computational Metabolomics and Cheminformatics
 
 ## Tech Stack 💻
 
