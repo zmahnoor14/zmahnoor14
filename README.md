@@ -8,7 +8,6 @@ I'm a computational scientist passionate about pushing the boundaries of scienti
 - 🌱 I’m currently learning machine learning for small molecules
 - 💬 Ask me about my good things in life :) coffee, swimming, anime, windy summer 
 - 📫 How to reach me: [zmahnoor14@gmail.com]
-- 😄 Pronouns: she/her
 - ⚡ Fun fact: My favourite past time --> fictional and non-fictional escape from reality via books 📖
 
 ### Professional Journey 🔬
