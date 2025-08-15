@@ -2,7 +2,7 @@
 
 ## About Me 🧬
 
-I'm a computational scientist passionate about pushing the boundaries of scientific research through code and data analysis.
+I'm a computational researcher passionate about writing code and developing data analysis workflows.
 
 - 🔭 I’m currently working on machine learning models for predicting drug biotransformation
 - 🌱 I’m currently learning machine learning for small molecules
